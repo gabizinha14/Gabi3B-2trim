@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "a gerente chegou com todo o barulho, o que a marcinha deve fazer?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "se acalmar e explicar o que aconteceu",
                 afirmacao: "positivo"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "se desesperar e dizer que a culpa nao é dela",
                 afirmacao: "negativo"
             }
         ]
