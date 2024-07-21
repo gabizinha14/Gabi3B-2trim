@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Georgia', serif;
-    background-color: #f0f5eb;
+    background-color: #e02323;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,7 +12,7 @@ body {
 }
 
 .caixa-principal {
-    background-color: #ffffff;
+    background-color: #8d0000;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    color: #4b8b3b;
+    color: #000000;
     margin-bottom: 20px;
     font-family: 'Verdana', sans-serif;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 
 .caixa-alternativas button {
-    background-color: #8fbc8f;
+    background-color: #d51414;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .caixa-alternativas button:hover {
-    background-color: #6b8e23;
+    background-color: #b51e1e;
 }
 
 .caixa-resultado {
@@ -54,7 +54,7 @@ h1 {
 
 .texto-resultado {
     font-size: 18px;
-    color: #228b22;
+    color: #dc4343;
 }
 
 @media (max-width: 600px) {
