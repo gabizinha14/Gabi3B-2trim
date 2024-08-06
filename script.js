@@ -61,11 +61,11 @@ const perguntas = [
         enunciado: "depois de todo o tumulto, marcinha decide esfriar a cabeça comendo alguma coisa",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                texto: "Pedir um doce para a gabi",
                 afirmacao: "positivo"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "passar fome",
                 afirmacao: "negativo"
             }
         ]
