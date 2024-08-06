@@ -104,7 +104,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "no final, se você teve um resultado bom, parabéns!! a marcinha sobreviveu mais um dia como CLT, mas se for o contrário, a marcinha foi demitida";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.style.display = "block";
